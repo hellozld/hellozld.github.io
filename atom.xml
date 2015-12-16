@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://hellozld.github.io/atom.xml" rel="self"/>
+  <link href="http://hellozld.github.io/"/>
+  <updated>2015-12-16T21:29:45+08:00</updated>
+  <id>http://hellozld.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android博客]]></title>
+    <link href="http://hellozld.github.io/blog/2015/12/15/myblog1/"/>
+    <updated>2015-12-15T13:43:15+08:00</updated>
+    <id>http://hellozld.github.io/blog/2015/12/15/myblog1</id>
+    <content type="html"><![CDATA[<h1>安卓博客</h1>
+
+<h2>小张的安卓博客</h2>
+
+<p><audio controls><source src='http://hellozld.github.io/images/a.mp3'></audio></p>
+]]></content>
+  </entry>
+  
+</feed>
