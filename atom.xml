@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hellozld.github.io/atom.xml" rel="self"/>
   <link href="http://hellozld.github.io/"/>
-  <updated>2015-12-16T21:34:19+08:00</updated>
+  <updated>2015-12-16T21:40:26+08:00</updated>
   <id>http://hellozld.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog3]]></title>
+    <link href="http://hellozld.github.io/blog/2015/12/16/blog3/"/>
+    <updated>2015-12-16T21:39:01+08:00</updated>
+    <id>http://hellozld.github.io/blog/2015/12/16/blog3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog2]]></title>
+    <link href="http://hellozld.github.io/blog/2015/12/16/blog2/"/>
+    <updated>2015-12-16T21:38:56+08:00</updated>
+    <id>http://hellozld.github.io/blog/2015/12/16/blog2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[我的博客1]]></title>
+    <link href="http://hellozld.github.io/blog/2015/12/16/blog1/"/>
+    <updated>2015-12-16T21:38:50+08:00</updated>
+    <id>http://hellozld.github.io/blog/2015/12/16/blog1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
